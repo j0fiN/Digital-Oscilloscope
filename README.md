@@ -1,4 +1,4 @@
 # Digital-Oscilloscope
 Simple Digital Oscilloscope.
 
-_Pull the .EXE file and try for Once!!!_
+_Pull the .exe file and try it!!!_
