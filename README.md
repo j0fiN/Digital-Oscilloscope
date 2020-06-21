@@ -1,7 +1,7 @@
 # Digital-Oscilloscope
 ### A Simple Digital Oscilloscope.
 ![snap](https://github.com/j0fiN/Digital-Oscilloscope/blob/master/snap.PNG)
-#### Getting Started
+### Getting Started
 ```terminal
 git clone https://github.com/j0fiN/Digital-Oscilloscope.git
 cd Digital-Oscilloscope
