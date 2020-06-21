@@ -1,4 +1,8 @@
 # Digital-Oscilloscope
-Simple Digital Oscilloscope.
+### Simple Digital Oscilloscope.
 
-_Pull the .exe file and try it!!!_
+```bash
+git clone 
+pip install requirements.txt
+python run base1.py
+```
